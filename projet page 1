@@ -3,23 +3,42 @@
    <head>     
 
       <meta charset="UTF-8">
-      <meta http-equiv="refresh" content="20">
-      <title> C'EST NOTRE PROJET !! </title>
+     
+      <title> Langage C </title>
       <link href="cssprojet.css" rel="stylesheet" media="all">
    </head>
 
     <body>
-    	
-		<div id="menu">
-			<ul>
-				<li><a href="/">Home<a></li>
-				<li><a href="#">Language.C<a></li>
-				<li><a href="#">Web Statique<a></li>
-				<li><a href="#">Architecture des Ordinateurs<a></li>
-				<li><a href="#">Contact<a></li>
-			</ul>
-		</div>
 	
+	<h1>Page de Révision sur le Langage C</h1>
+	<hr />
+	<br />
+	<p1> Petite page de révision des cours vu en langage C, elle ne pourra cepedant pas remplacer le cours. Elle donnera que des aides pour réviser les cours et aider les gens qui sont en difficulté avec quelques tips. Bonne lecture.</p1>
+    	<p id="image"><a><img src="IMG/langage C.jpeg" alt="imagelangageC" /></a>
+	<hr />
+	<br />
+
+	<p1>Tout d'abord, si vous avez des  difficulées veuillez relire les diapos données durant les  cours magistraux accessible sur UMTICE !</p1>
+
+	<p <a <a target="_blank" href="http://umtice.univ-lemans.fr/course/view.php?id=3575"> <img src="logoumice.png" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     </body>
   
