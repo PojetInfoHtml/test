@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+   <head>     
+
+      <meta charset="UTF-8">
+      <meta http-equiv="refresh" content="20">
+      <title> C'EST NOTRE PROJET !! </title>
+      <link href="cssprojet.css" rel="stylesheet" media="all">
+   </head>
+
+    <body>
+    	
+		<div id="menu">
+			<ul>
+				<li><a href="/">Home<a></li>
+				<li><a href="#">Language.C<a></li>
+				<li><a href="#">Web Statique<a></li>
+				<li><a href="#">Architecture des Ordinateurs<a></li>
+				<li><a href="#">Contact<a></li>
+			</ul>
+		</div>
+	
+
+    </body>
+  
+</html> 
