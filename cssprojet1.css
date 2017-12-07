@@ -1,0 +1,51 @@
+html, body {
+	margin: 10px;
+	padding: 10px;
+}
+
+body {
+	text-align: center;
+	background-color: #103246; 
+	font-family: "Agency FB", Calibri, "Californian FB", serif;
+	font-size: 110%;
+}
+
+h1 {
+	font-size: 400%; 
+	color: #e9c46a; 
+	text-align: center;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-size: 150%; 
+	color: #58819f; 
+	padding-left: 15px;
+	font-variant: small-caps;
+}
+ 
+p1 {	
+
+	font-size: 90%; 
+	color: #e9c46a; 
+	padding-left: 15px;
+	font-variant: small-caps;
+
+}
+p2 {
+
+	font-size: 90%; 
+	color: #e9c46a; 
+	padding-left: 15px;
+	font-variant: small-caps;
+	
+}
+p3 {
+
+	font-size: 100%; 
+	color: #e9c46c; 
+	padding-left: 15px;
+	font-variant: small-caps;
+	
+}
