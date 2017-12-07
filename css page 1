@@ -3,11 +3,32 @@ html, body {
 	padding: 10px;
  }
 body {
-	background-color: #103246;
+	
+	text-align: center;
+	background-color: #103246; 
+	font-family: "Agency FB", Calibri, "Californian FB", serif;
+	font-size: 110%;
+
 }
 
     display: block;
 	color:#fcdea6;
+}
+a:link {
+ color: #00FFB7;
+ text-decoration: none;
+ }
+a:visited {
+ color: #E8E509;
+text-decoration: none;
+ }
+a:hover {
+ color: #0687E8;
+ text-decoration: none;
+}
+a:active, a:focus {
+ color: #5899E2;
+text-decoration: none;
 }
 menu, #menu ul /* Liste */     
 {
@@ -16,6 +37,25 @@ menu, #menu ul /* Liste */
         list-style : none; /* on supprime le style par défaut de la liste */
         line-height : 21px; /* on définit une hauteur pour chaque élément */
         text-align : center; /* on centre le texte qui se trouve dans la liste */
+}
+h1{
+	font-size: 400%; 
+	color: #e9c46a; 
+	text-align: center;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+p1{
+	font-size: 90%; 
+	color: #e9c46a; 
+	padding-left: 15px;
+	font-variant: small-caps;
+	text-decoration: none;
+
+
+}
+#image{
+   text-align: center;
 }
 
 #menu /* Ensemble du menu */
@@ -80,3 +120,4 @@ html>body #menu li ul ul
 {
         border-left     : 1px solid transparent ; /* on met une bordure transparente sur la gauche de chaque élément */
 }
+
